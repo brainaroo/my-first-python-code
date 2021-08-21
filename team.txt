@@ -1,6 +1,6 @@
-Hustler
-Hacker
-Hipster
+Hustler: Business
+Hacker: Technology
+Hipster: Design
 
 Leadership:
 CEO
