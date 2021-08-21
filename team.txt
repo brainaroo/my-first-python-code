@@ -3,6 +3,6 @@ Hacker: Technology
 Hipster: Design
 
 Leadership:
-CEO
+CEO: Dr. Heri Utomo, ST, MMT
 CMO
 CTO
